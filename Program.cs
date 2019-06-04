@@ -83,8 +83,7 @@ namespace linq_join
                     public string BankName { get; set; }
                 }
             */
-            List<ReportItem> millionaireReport = (from customer in customers
-            where customer.Balance >= 1000000
+            List<ReportItem> millionaireReport = (from customer in richPeeps
             join bank in banks on customer.Bank equals bank.Symbol
             select new ReportItem{
                 CustomerName = customer.Name,
