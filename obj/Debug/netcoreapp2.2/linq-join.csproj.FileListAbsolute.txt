@@ -1,0 +1,11 @@
+C:\Users\Cliff\backend\linq-join\bin\Debug\netcoreapp2.2\linq-join.deps.json
+C:\Users\Cliff\backend\linq-join\bin\Debug\netcoreapp2.2\linq-join.runtimeconfig.json
+C:\Users\Cliff\backend\linq-join\bin\Debug\netcoreapp2.2\linq-join.runtimeconfig.dev.json
+C:\Users\Cliff\backend\linq-join\bin\Debug\netcoreapp2.2\linq-join.dll
+C:\Users\Cliff\backend\linq-join\bin\Debug\netcoreapp2.2\linq-join.pdb
+C:\Users\Cliff\backend\linq-join\obj\Debug\netcoreapp2.2\linq-join.csprojAssemblyReference.cache
+C:\Users\Cliff\backend\linq-join\obj\Debug\netcoreapp2.2\linq-join.csproj.CoreCompileInputs.cache
+C:\Users\Cliff\backend\linq-join\obj\Debug\netcoreapp2.2\linq-join.AssemblyInfoInputs.cache
+C:\Users\Cliff\backend\linq-join\obj\Debug\netcoreapp2.2\linq-join.AssemblyInfo.cs
+C:\Users\Cliff\backend\linq-join\obj\Debug\netcoreapp2.2\linq-join.dll
+C:\Users\Cliff\backend\linq-join\obj\Debug\netcoreapp2.2\linq-join.pdb
