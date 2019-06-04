@@ -68,7 +68,9 @@ namespace linq_join
                     richPeeps.Add(person);
                 }
             }
-        
+        // foreach(Customer person in richPeeps){
+        //     person.Name.Split(" ")
+        // }
 
             
 
@@ -91,7 +93,7 @@ namespace linq_join
             }
             ).ToList();
 
-        foreach (var item in millionaireReport)
+        foreach (var item in millionaireReport.OrderBy(name => name.GetLastName()))
             {
                 Console.WriteLine($"{item.CustomerName} at {item.BankName}");
             }
